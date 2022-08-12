@@ -1,0 +1,15 @@
+section {
+    margin: 5px 0;
+}
+
+.city-search {
+    border: 1px solid black;
+}
+
+.current-weather {
+    border: 1px solid black;
+}
+
+.five-day {
+    border: 1px solid black;
+}
