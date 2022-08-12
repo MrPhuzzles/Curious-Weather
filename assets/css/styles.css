@@ -1,15 +1,35 @@
-section {
-    margin: 5px 0;
+* {
+    box-sizing: border-box;
+
 }
 
-.city-search {
-    border: 1px solid black;
+body {
+
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
-.current-weather {
-    border: 1px solid black;
+h3 {
+    font-weight: bold;
 }
 
-.five-day {
-    border: 1px solid black;
+.forecast {
+
+    font-size: 0.9em;
+}
+
+span {
+    font-size: 1em;
+}
+
+li:hover {
+    background-color: lightslategray;
+    text-decoration: underline;
+}
+
+/* Jumbotron/Header styles*/
+.jumbotron {
+    background-image: linear-gradient(to right, blue, purple);
+    color: white;
 }
